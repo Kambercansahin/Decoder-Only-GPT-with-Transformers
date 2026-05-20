@@ -1,4 +1,4 @@
-# 💻 Shakespeare-GPT: Building a Decoder-Only Transformer From Scratch
+# Shakespeare-GPT: Building a Decoder-Only Transformer From Scratch
 
 
 ---
@@ -232,7 +232,7 @@ mask[:seq_len, :seq_len]
 - AdamW Optimizer
 - Apple Silicon MPS / CUDA
 - Jupyter Notebook
-- Cursor AI
+
 
 ---
 
@@ -244,7 +244,7 @@ mask[:seq_len, :seq_len]
 - AdamW Optimizer
 - Apple Silicon MPS / CUDA
 - Jupyter Notebook
-- Cursor AI
+
 
 ---
 
