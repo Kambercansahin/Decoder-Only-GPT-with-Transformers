@@ -1,4 +1,4 @@
-# Shakespeare-GPT: Building a Decoder-Only Transformer From Scratch
+# GPT: Building a Decoder-Only Transformer From Scratch
 
 
 ---
